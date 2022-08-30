@@ -1,0 +1,15 @@
+{
+  "name": "leaflet-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-region-data": "^2.6.0",
+    "data.js": "^0.0.0"
+  }
+}
